@@ -1,9 +1,8 @@
 /*
- *
  *  * File: 4-puts.c
  *
- *   * Auth:Jean Wanjira Ngugi
- * *    */
+ *  * Auth:Jean Wanjira Ngugi
+ */
 
 
 
@@ -13,15 +12,13 @@
 
 /**
  *
- *  * main - Prints "Programming is like building a multilingual
+ *  * main - Prints "Programming is like building a multilingual puzzle, followed by a new line."
  *
- *   *                puzzle, followed by a new line.
+ *  *
  *
- *    *
+ *  * Return: Always 0.
  *
- *     * Return: Always 0.
- *
- *      */
+ */
 
 int main(void)
 
