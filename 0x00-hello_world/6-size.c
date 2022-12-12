@@ -4,7 +4,7 @@
  *
  *  * the computer it is compiled and run on.
  *  * Return: Always 0.
- *      */
+ */
 int main(void)
 
 {
