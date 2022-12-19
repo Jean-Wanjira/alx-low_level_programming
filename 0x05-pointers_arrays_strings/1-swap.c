@@ -9,4 +9,4 @@ void swap_int(int *a, int *b)
 int spa = *a;
 *a = *b;
 *b = spa;
-}	
+}
