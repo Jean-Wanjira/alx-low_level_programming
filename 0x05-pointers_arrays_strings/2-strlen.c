@@ -3,12 +3,12 @@
 /**
  * _strlen - Returns the length of a string.
  * @s: The char to check.
- * Return :0
+ * Return: 0
 */
 int _strlen(char *s)
 {
 int length = 0;
-for(; *s++;)
+for (; *s++;)
 {
 length++;
 }
