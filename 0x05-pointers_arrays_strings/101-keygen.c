@@ -6,7 +6,7 @@
  *       program 101-crackme.
  * Return: Always 0.
 */
-int main(void)
+int main()
 {
 char passwd[84];
 int i = 0, sum = 0, diff_half1, diff_half2;
@@ -40,6 +40,7 @@ break;
 }
 }
 printf("%s", passwd);
+}
 return (0);
 }
-}
+
