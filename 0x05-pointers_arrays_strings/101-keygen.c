@@ -42,3 +42,4 @@ break;
 printf("%s", passwd);
 return (0);
 }
+}
