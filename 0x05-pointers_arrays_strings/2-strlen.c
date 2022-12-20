@@ -5,9 +5,9 @@
  * @s: The string to get the length of.
  * Return : returns length of @s
 */
-size_t _strlen(char *s)
+int _strlen(char *s)
 {
-size_t length = 0;
+int length = 0;
 while (*s++)
 length++;
 return (length);
