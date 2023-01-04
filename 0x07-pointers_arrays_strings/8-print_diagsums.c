@@ -15,7 +15,7 @@ int Sum1 = 0;
 int Sum2 = 0;
 while (d <= (size * size))
 {
-sum1 = sum1 + a[d];
+Sum1 = Sum1 + a[d];
 d = d + size + 1;
 }
 while (e < (size * size - 1))
