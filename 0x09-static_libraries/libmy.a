@@ -1,0 +1,3 @@
+#include "main.h"
+$ gcc -c -Wall -Werror -Wextra *.c
+
