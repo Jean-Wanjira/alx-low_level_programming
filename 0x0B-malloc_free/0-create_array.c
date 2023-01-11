@@ -17,12 +17,12 @@ if (size == 0)
 {
 return (NULL);
 }
-array = malloc(sizeof(char) * size);
-if (array == NULL)
+arr_ay = malloc(sizeof(char) * size);
+if (arr_ay == NULL)
 return (NULL);
 for (i = 0; i < size; i++)
 {
-array[i] = c;
+arr_ay[i] = c;
 }
-return (array);
+return (arr_ay);
 }
