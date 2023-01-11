@@ -74,6 +74,6 @@ for (l = 0; l < letters; l++)
 strings[w][l] = str[i++];
 strings[w][l] = '\0';
 }
-strings[w][l] = NULL;
+strings[w] = NULL;
 return (strings);
 }
