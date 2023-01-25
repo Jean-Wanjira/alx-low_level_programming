@@ -1,5 +1,4 @@
 what are variadic functions
-
-How to use va_start, va_arg and va_end macros
-
-Why and how to use the const type qualifier
+a function that prints numbers, followed by a new line.
+a function that prints strings, followed by a new line
+a function that prints anything.
