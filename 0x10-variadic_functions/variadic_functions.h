@@ -1,5 +1,5 @@
-#ifndef "VARIADIC_FUNCTIONS_H"
-#define "VARIADIC_FUNCTIONS_H"
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
 /**
  * Desc: Header file containing prototypes for all functions
  *        used in the 0x0F-variadic_functions directory.
